@@ -1,0 +1,29 @@
+Minecraft 1.21.5 Fabric Mod Links
+=================================
+
+1. Fabric API 0.124.0+1.21.5
+   - Description: Essential core mod required by most Fabric mods.
+   - Download: https://modrinth.com/mod/fabric-api
+
+2. Framework (Fabric) 1.21.5-0.11.5
+   - Description: A utility library providing powerful tools for mod developers.
+   - Download: https://modrinth.com/mod/framework
+
+3. Guns++ 5.8.1
+   - Description: [NO OFFICIAL SOURCE FOUND] Use with caution; verify source legitimacy.
+   - Download: (Unavailable)
+
+4. Macaw’s Bridges 3.1.0 (Fabric 1.21.5)
+   - Description: Adds a variety of bridges to enhance your building projects.
+   - Download: https://modrinth.com/mod/macaws-bridges
+
+5. MrCrayfish’s Furniture Mod: Refurbished 1.0.14 (Fabric 1.21.5)
+   - Description: A redesigned version of the classic furniture mod with new models and features.
+   - Download: https://modrinth.com/mod/refurbished-furniture
+
+Installation Instructions
+-------------------------
+- Install Fabric Loader for Minecraft 1.21.5: https://fabricmc.net/use/
+- Place all downloaded .jar files into your mods folder:
+  C:\Users\YourUsername\AppData\Roaming\.minecraft\mods
+- Launch Minecraft using the Fabric profile.
